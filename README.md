@@ -9,14 +9,14 @@ I’m always excited to learn new technologies and collaborate on innovative pro
 
  Skills
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS <br>
-**Backend:** Node.js, Express.js <br>
-**Database:** MongoDB<br>
-**Full-Stack:** MERN Stack Development<br>
-**Real-Time:** Socket.io<br>
-**Authentication:** NextAuth, JWT, Redux<br>
-**API Integration:** OpenAI API, REST API<br>
-**Cloud Services:** Cloudinary, Firebase<br>
-**Tools:** Git, GitHub, Axios<br>
+- **Backend:** Node.js, Express.js <br>
+- **Database:** MongoDB<br>
+- **Full-Stack:** MERN Stack Development<br>
+- **Real-Time:** Socket.io<br>
+- **Authentication:** NextAuth, JWT, Redux<br>
+- **API Integration:** OpenAI API, REST API<br>
+- **Cloud Services:** Cloudinary, Firebase<br>
+- **Tools:** Git, GitHub, Axios<br>
 
 Here are some of the projects I've worked on:
 
