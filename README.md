@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @ammarah-svg, a passionate front-end developer with a keen interest in creating delightful and responsive web experiences.
-- 
-## About Me
-- 🌐 Front-End Developer
-- 🎓 [Punjab University]
-- 📧 [ammarah.svg@gmail.com]
-- 🌍 [
-- ]
+Hi there! 👋 I'm a passionate **MERN Stack Developer** with hands-on experience in building dynamic and user-centric applications.
+
+💻 I specialize in **React.js, Next.js**, and full-stack development using the **MERN stack**.
+🚀 I’ve developed applications like a **chat app** (React + Socket.io) and **Next.js-based projects** with seamless authentication and API integrations.
+🌐 Skilled in **REST API, OpenAI API**, and cloud services like **Firebase** and **Cloudinary**.
+🔐 Proficient in implementing secure authentication using **NextAuth**, **JWT**, and **Redux**.
+🛠️ I enjoy solving problems and optimizing web applications for performance and scalability.
+I’m always excited to learn new technologies and collaborate on innovative projects. Let’s connect and build something amazing together! 🌟
 
  Skills
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS <br>
@@ -29,7 +29,6 @@ Here are some of the projects I've worked on:
 I'm always open to collaboration and new opportunities. Feel free to reach out to me via email at [Your Email Address].
 
 📫 Let's Connect:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+- LinkedIn: [https://pk.linkedin.com/in/um-e-amara-295535265]
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if there's a collaboration opportunity. Happy coding! 🚀
