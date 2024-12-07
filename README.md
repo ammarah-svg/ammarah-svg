@@ -8,10 +8,15 @@
 - ]
 
  Skills
-- HTML5, CSS3, JavaScript
-- Responsive Web Design
-- UI/UX Design Principles
-- Version Control (Git, GitHub)
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Full-Stack:** MERN Stack Development
+**Real-Time:** Socket.io
+**Authentication:** NextAuth, JWT, Redux
+**API Integration:** OpenAI API, REST API
+**Cloud Services:** Cloudinary, Firebase
+**Tools:** Git, GitHub, Axios
 
 Here are some of the projects I've worked on:
 
