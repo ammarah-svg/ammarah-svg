@@ -13,7 +13,7 @@ I’m always excited to learn new technologies and collaborate on innovative pro
 - **Database:** MongoDB, Prisma<br>
 - **Full-Stack:** MERN Stack Development<br>
 - **Real-Time:** Socket.io<br>
-- **Authentication:** NextAuth, JWT, Redux<br>
+- **Authentication:** NextAuth, JWT, Clerk, Redux<br>
 - **API Integration:** OpenAI API, REST API<br>
 - **Cloud Services:** Cloudinary, Firebase<br>
 - **Tools:** Git, GitHub, Axios<br>
