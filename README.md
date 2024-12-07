@@ -1,11 +1,11 @@
 Hi there! 👋 I'm a passionate **MERN Stack Developer** with hands-on experience in building dynamic and user-centric applications.
 
-💻 I specialize in **React.js, Next.js**, and full-stack development using the **MERN stack**.
-🚀 I’ve developed applications like a **chat app** (React + Socket.io) and **Next.js-based projects** with seamless authentication and API integrations.
-🌐 Skilled in **REST API, OpenAI API**, and cloud services like **Firebase** and **Cloudinary**.
-🔐 Proficient in implementing secure authentication using **NextAuth**, **JWT**, and **Redux**.
-🛠️ I enjoy solving problems and optimizing web applications for performance and scalability.
-I’m always excited to learn new technologies and collaborate on innovative projects. Let’s connect and build something amazing together! 🌟
+💻 I specialize in **React.js, Next.js**, and full-stack development using the **MERN stack**.<br>
+🚀 I’ve developed applications like a **chat app** (React + Socket.io) and **Next.js-based projects** with seamless authentication and API integrations.<br>
+🌐 Skilled in **REST API, OpenAI API**, and cloud services like **Firebase** and **Cloudinary**.<br>
+🔐 Proficient in implementing secure authentication using **NextAuth**, **JWT**, and **Redux**.<br>
+🛠️ I enjoy solving problems and optimizing web applications for performance and scalability.<br>
+I’m always excited to learn new technologies and collaborate on innovative projects. Let’s connect and build something amazing together! 🌟<br>
 
  Skills
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS <br>
