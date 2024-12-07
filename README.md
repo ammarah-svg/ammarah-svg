@@ -8,8 +8,8 @@
 - ]
 
  Skills
-- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
-**Backend:** Node.js, Express.js
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS <br>
+**Backend:** Node.js, Express.js <br>
 **Database:** MongoDB
 **Full-Stack:** MERN Stack Development
 **Real-Time:** Socket.io
