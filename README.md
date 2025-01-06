@@ -20,10 +20,10 @@ I’m always excited to learn new technologies and collaborate on innovative pro
 
 Here are some of the projects I've worked on:
 
-1. https://ammarah-svg.github.io/business-lite/ 
-2. https://ammarah-svg.github.io/music-live/
-4. https://github.com/ammarah-svg/pizzaship
-5. https://github.com/ammarah-svg/ChatLoop
+1. https://github.com/ammarah-svg/pizzaship
+2. https://ammarah-svg.github.io/business-lite/ 
+3. https://ammarah-svg.github.io/music-live/
+4. https://github.com/ammarah-svg/ChatLoop
 
 ...
 
