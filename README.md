@@ -22,7 +22,6 @@ Here are some of the projects I've worked on:
 
 1. https://ammarah-svg.github.io/business-lite/ 
 2. https://ammarah-svg.github.io/music-live/
-3. https://ammarah-svg.github.io/Audi-Pakistan/
 4. https://github.com/ammarah-svg/pizzaship
 5. https://github.com/ammarah-svg/ChatLoop
 
