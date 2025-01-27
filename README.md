@@ -15,7 +15,9 @@ Tools I can work with:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nextjs-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react.svg" width="50"></a>
+ 
+ 
  Skills
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS <br>
 - **Backend:** Node.js, Express.js <br>
