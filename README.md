@@ -19,6 +19,9 @@ Tools I can work with:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/redux.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/socketio-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb.svg" width="50"></a>
+
+
 
  
  
