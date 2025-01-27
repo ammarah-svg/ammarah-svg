@@ -7,6 +7,15 @@ Hi there! 👋 I'm a passionate **MERN Stack Developer** with hands-on experienc
 🛠️ I enjoy solving problems and optimizing web applications for performance and scalability.<br>
 I’m always excited to learn new technologies and collaborate on innovative projects. Let’s connect and build something amazing together! 🌟<br>
 
+
+Tools I can work with:
+
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nextjs-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50"></a>
  Skills
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS <br>
 - **Backend:** Node.js, Express.js <br>
